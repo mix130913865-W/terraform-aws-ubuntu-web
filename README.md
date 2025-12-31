@@ -11,7 +11,6 @@
 ###
 ```terraform-aws-ubuntu-web/         # 專案根目錄
 ├── README.md                     # 專案說明
-├── .gitignore                     # 忽略私鑰與 state
 ├── backend.tf                     # Terraform S3 backend 設定
 ├── provider.tf                    # AWS Provider 設定
 ├── vars.tf                        # 變數定義（region、zone、AMI 等）
